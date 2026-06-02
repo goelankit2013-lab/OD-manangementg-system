@@ -1,0 +1,15 @@
+This is a Over Due Management Project 
+
+Using Python and Excel 
+
+All the Codes are In The directory with use case excel files 
+
+1. AIRiskScore File: Run this script first then u will get dealer_risk_output file.
+
+2. Then Run Automated WhatsApp script to send WhatsApp message automatically 
+
+Prerequisites 
+
+Twilio account connected to WhatsApp
+
+Thanks and enjoy! 
